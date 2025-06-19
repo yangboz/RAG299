@@ -97,8 +97,11 @@ If you find this helpful, consider a 299 CNY donation to support open-source wor
 
 回首这一路，从15年前的HTML5，到iOS动画师，再到今天的RAG系统开发者，我走过了无数岔路，也错过了不少机缘。但每一次低谷里，总有一些同行点亮过我：
 ###一行代码；https://github.com/yangboz/ChatBotsMessager
+
 ###一篇博客；https://www.joinef.com/posts/
+
 ###一个项目；https://github.com/yangboz/LotteryPrediction
+
 ###一次开源: https://github.com/yangboz/RAG299
 
 所以，我把我这次的项目，以开源回馈给世界，也算是——
